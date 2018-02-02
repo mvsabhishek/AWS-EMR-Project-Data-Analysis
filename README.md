@@ -1,10 +1,10 @@
-Managing-the-cloud-IFT-598-Project
+# Managing-the-cloud-IFT-598-Project
 
-Managing the Cloud - with Amazon Web Services
+### Managing the Cloud - with Amazon Web Services
 
-Please refer the Word Document in the repository for detailed description.
+#### Please refer the Word Document in the repository for detailed description.
 
-Summary:
+## Summary:
 
 The objective of the project was to analyze historic crime data of the city of Los Angeles to understand the patterns of crimes using cloud services. The project was divided various stages.
 
@@ -15,7 +15,7 @@ The objective of the project was to analyze historic crime data of the city of L
 - Lastly, the output from the EMR was visualized using Tableau. To do so, a database was created on top of the Amazon S3 bucket using Amazon Athena. Then, Tableau desktop was connected directly to the data source stored as data tables on Amazon Athena. The data was used to create dashboards that comprehensively displayed the results of the analysis.
 To achieve the objective, various cloud technologies such as Amazon S3, Amazon EMR, and Amazon Athena, and other essential technologies for data analysis such as Map Reduce using Java and Apache Hadoop were learnt.
 
-Please find the source code of all the mapreduce classes in the repository.
+Please find the source code for all the mapreduce classes in the repository.
 
 - Mapper Code Example
 ![Mapper](https://github.com/mvsabhishek/Managing-the-cloud-IFT-598-Project/blob/master/map1.PNG)
